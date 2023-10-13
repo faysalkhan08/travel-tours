@@ -1,0 +1,190 @@
+.main-div-01 {
+    background-color: none !important;
+    color: white;
+    background-image: url('https://travel-tours-website.vercel.app/IMG-20230823-WA0068.jpg');
+    background-size: cover !important;
+    width: 100% !important;
+    height: 100vh !important;
+}
+
+.text-1 {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 200px;
+    font-family: serif;
+}
+
+.ptxt-1 {
+    text-align: center;
+}
+
+.btnn {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-1 {
+    color: white;
+    font-family: serif;
+    margin-top: 50px;
+    width: 260px !important;
+    height: 60px !important;
+    border: solid white !important;
+    border-radius: 5px;
+    background-color: transparent !important;
+    transition: .4s;
+    
+}
+.btn-1:hover{
+    background-color: white !important;
+    color: black !important;
+}
+
+.img-2 {
+    width: 100% !important;
+    height: 500px !important;
+}
+
+.text-2 {
+    font-family: serif;
+    color: blue !important;
+    font-size: 20px;
+}
+
+.text-02 {
+    font-family: serif !important;
+    font-weight: bolder;
+}
+
+.div-2 {
+    margin-top: 170px !important;
+}
+
+.main-div-03 {
+    text-align: center;
+    background-color: rgb(244,241,244) !important;
+}
+
+.text-3 {
+    font-size: 50px;
+    color: rgb(49,109,137);
+}
+
+.text-4 {
+    font-family: serif !important;
+    font-weight: bolder;
+}
+
+.main-div-04 {
+    text-align: center;
+}
+.text-5 {
+    font-size: 80px;
+    font-family: serif;
+    font-weight: bolder;
+}
+
+.main-div-05 {
+    background-color: rgb(6,189,189);
+}
+
+.text-6 {
+    font-size: 50px;
+    font-family: serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.text-6-1 {
+    text-align: center;
+}
+
+
+.text-7 {
+    font-size: 25px;
+    font-family: serif;
+    font-weight: bolder;
+}
+
+.text-8 {
+    color: rgba(21, 22, 22, 0.638);
+}
+
+.text-9 {
+    text-align: center;
+    font-family: serif;
+    font-weight: bolder;
+}
+
+.img-001 {
+    width: 70px;
+    height: 70px;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.text-09 {
+    font-family: sans-serif;
+}
+
+.text-7-1 {
+    font-size: 25px;
+    font-family: serif;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.text-10 {
+    color: rgb(6,189,189);
+}
+
+.text-8 {
+    color: rgba(21, 22, 22, 0.638);
+}
+
+.main-div-8 {
+    color: white;
+    background-color: black;
+}
+
+.foot-icons {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.icon-11 {
+    margin-right: 15px !important;
+}
+
+.foott {
+    padding-top: 80px !important;
+}
+
+.txt {
+    font-size: 25px;
+    font-family: serif;
+    font-weight: bolder;
+}
+
+.txt-1 {
+    text-decoration: none !important;
+    font-size: 20px !important;
+}
+
+@media  screen and (max-width: 600px) {
+    .main-div-04 .text-5{
+        font-size: 55px;
+    }
+}
+
+.arrow-1{
+    text-align: center !important;
+    font-size: 20px !important;
+    border-color: white !important;
+    color:  rgb(255, 255, 255) !important;
+    margin-bottom: 0px !important;
+}
